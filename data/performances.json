@@ -1,0 +1,50 @@
+[
+  {
+    "id": "penampil-1",
+    "name": "Penampil 1",
+    "subtitle": "Band",
+    "image": "/assets/peserta/penampil-1.jpg"
+  },
+  {
+    "id": "penampil-2",
+    "name": "Penampil 2",
+    "subtitle": "Solo Vokal",
+    "image": "/assets/peserta/penampil-2.jpg"
+  },
+  {
+    "id": "penampil-3",
+    "name": "Penampil 3",
+    "subtitle": "Tari Tradisional",
+    "image": "/assets/peserta/penampil-3.jpg"
+  },
+  {
+    "id": "penampil-4",
+    "name": "Penampil 4",
+    "subtitle": "Akustik",
+    "image": "/assets/peserta/penampil-4.jpg"
+  },
+  {
+    "id": "penampil-5",
+    "name": "Penampil 5",
+    "subtitle": "Band",
+    "image": "/assets/peserta/penampil-5.jpg"
+  },
+  {
+    "id": "penampil-6",
+    "name": "Penampil 6",
+    "subtitle": "Solo Vokal",
+    "image": "/assets/peserta/penampil-6.jpg"
+  },
+  {
+    "id": "penampil-7",
+    "name": "Penampil 7",
+    "subtitle": "Tari Modern",
+    "image": "/assets/peserta/penampil-7.jpg"
+  },
+  {
+    "id": "penampil-8",
+    "name": "Penampil 8",
+    "subtitle": "Paduan Suara",
+    "image": "/assets/peserta/penampil-8.jpg"
+  }
+]
